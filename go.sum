@@ -1,0 +1,4 @@
+github.com/cinar/indicator/v2 v2.1.22 h1:KcxkkvzgJcM2DW8WS+R67HU6Cqmzpv91cSFcM+oF3F8=
+github.com/cinar/indicator/v2 v2.1.22/go.mod h1:Ts293VYPlwl2QpRdXw+LJmadRmYEmrmkKWdvNGA/xQs=
+github.com/markcheno/go-talib v0.0.0-20250114000313-ec55a20c902f h1:iKq//xEUUaeRoXNcAshpK4W8eSm7HtgI0aNznWtX7lk=
+github.com/markcheno/go-talib v0.0.0-20250114000313-ec55a20c902f/go.mod h1:3YUtoVrKWu2ql+iAeRyepSz3fy6a+19hJzGS88+u4u0=
